@@ -13,7 +13,8 @@ for (; x <= 9; x++)
 if (x == 2 || x == 4)
 {
 continue;
-} else
+else
+}
 {
 _putchar(x + '0');
 }
